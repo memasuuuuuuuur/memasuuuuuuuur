@@ -1,0 +1,109 @@
+body {
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.lqfqPR8NWn993MqEAjQxJAHaEo&pid=Api&P=0&h=220");
+  font: arial;
+  text-align: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-weight: bold;
+}
+body:hover
+
+.coffee-title {
+  font-size: 30px;
+  letter-spacing: 3px;
+  word-spacing: 8px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+.drink-photo {
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 25px;
+  border-radius: 50px;
+}
+
+.drink-info {
+  display: inline-block;
+  width: 720px;
+  vertical-align: top;
+  font-size: 19px;
+  font-weight: normal;
+  margin: 0px;
+}
+
+.drink-info1 {
+  display: block;
+  font-size: 19px;
+  font-weight: normal;
+  margin: 0px;
+  margin-left: 25px;
+  margin-right: 50px;
+  text-align: left;
+}
+
+.drink-history {
+  font-family: 'Arial Black', Gadget, sans-serif; 
+  font-size: 25px;
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 25px;
+  height: 50px;
+  letter-spacing: 1px;
+}
+
+.second-photo {
+  margin-right: 25px;
+  margin-left: 25px;
+  border-radius: 50px;
+  height: 340px;
+  width: 400px;
+}
+
+.line1 {
+  font-size: 20px;
+  word-spacing: 8px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  margin-top: 60px;
+  width: 390px;
+}
+
+.line2 {
+  font-size: 20px;
+  word-spacing: 8px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  width: 410px;
+  margin-top:0px;
+}
+
+.back-page {
+  height: 40px;
+  width: 200px;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: white; opacity: 0.5x;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  margin-left: 1000px;
+  margin-top: 90px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.back-page:hover {
+  background-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-color: white;
+  color: rgb(255, 255, 255);
+}
+
+.drink-info11 {
+  display: block;
+  font-size: 23px;
+  font-weight: normal;
+  margin: 0px;
+  margin-left: 25px;
+  margin-right: 50px;
+  text-align: left;
+}
