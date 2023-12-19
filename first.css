@@ -1,0 +1,165 @@
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/102-1029663_photo-wallpaper-tree-coffee-coffee-coffee-beans.jpg");
+    font: arial;
+    text-align: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.about-me {
+    height: 40px;
+    width: 130px;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: white; opacity: 0.5x;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin-left: 1000px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.about-me:hover {
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: white;
+    color: rgb(255, 255, 255);
+}
+
+.photo-image {
+    border-radius: 120px;
+    margin-top: 100px;
+    height: 140px;
+}
+
+.login {
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 400px;
+    margin-top: 0px;
+    font-weight: bold;
+    color: rgb(199, 199, 199);
+}
+
+.username {
+    height: 35px;
+    width: 350px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-login {
+    margin-top: 30px;
+    height: 40px;
+    width: 130px;
+    border: 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    background-color: rgb(102, 99, 99);
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.button-login:hover {
+    background-color: rgb(219, 130, 130);
+}
+
+.par1 {
+    text-align: justify;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-left: 400px;
+    color: rgb(3, 2, 2);
+    font-weight: bold;
+    background-color: white; opacity: 0.5; padding: 5px; width: 470px; height: 20px; border-radius: 5px;
+}
+
+.par2 {
+    text-align: justify;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 400px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: white; opacity: 0.5; padding: 5px; width: 470px; height: 20px; border-radius: 5px;
+}
+
+.cont-register {
+    height: 400px;
+    width: 350px;
+    position: relative;
+    margin-left: 450px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.photo-image1 {
+    border-radius: 120px;
+    margin-top: 100px;
+    height: 140px;
+}
+
+.register-form {
+    text-align: justify;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-weight: bold;
+}
+
+.info-register {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.button-register {
+    margin-top: 0px;
+    height: 40px;
+    width: 130px;
+    border: 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: rgb(102, 99, 99);
+    color: white;
+}
+
+.button-register:hover {
+    background-color: rgb(219, 130, 130);
+}
+
+.cont1 {
+    text-align: left;
+    color: white;
+    margin-left: 200px;
+}
+
+#name {
+    width: 350px;
+}
+
+#email {
+    width: 350px;
+}
+
+#password {
+    width: 350px;
+}
+
+#password_confirmation {
+    width: 350px;
+    margin-bottom: 10px;
+}
+
+.login-line1 {
+    text-align: left;
+    color: white;
+    margin-right: 280px;
+}
