@@ -1,0 +1,134 @@
+body{
+  background-image: url("https://wallpapertag.com/wallpaper/full/2/7/a/143530-large-light-brown-background-2560x1440-for-hd.jpg"); height: 800px;
+  overflow: hidden;
+}
+
+.about-p {
+  text-align: left;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+  color: rgb(71, 69, 69);
+}
+
+.cont-about {
+  position: fixed;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  height: 50px;
+  top: 150px;
+  left: 200px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 35px;
+  letter-spacing: 2px;
+  width: 450px;
+  display: inline-block;
+}
+
+.cont-about1 {
+  position: fixed;
+  color: #f1f1f1;
+  height: 50px;
+  top: 80px;
+  left: 130px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 25px;
+  letter-spacing: 1px;
+  display: inline-block;
+}
+
+.contact {
+  position: fixed;
+  color: #f1f1f1;
+  height: 50px;
+  top: 80px;
+  left: 130px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 40px;
+  letter-spacing: 1px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.contact-head {
+  margin-left: 380px;
+  margin-bottom: 0;
+}
+
+.design {
+  margin-top: 0;
+  font-size: 15px;
+  margin-left: 417px;
+}
+
+.quest {
+  font-size: 15px;
+  font-weight: normal;
+  margin-left: 315px;
+}
+
+.photo {
+  position: fixed;
+  left: 50%;
+  top: 30%;
+  border-radius: 100%;
+  width: 320px;
+  height: 300px;
+  box-shadow: 20px 3px 20px -2px #5e5c5c;
+}
+
+.contact1 {
+  position: fixed;
+  color: #f1f1f1;
+  height: 50px;
+  top: 230px;
+  left: 130px;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 40px;
+  letter-spacing: 1px;
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 315px;
+}
+
+.name {
+  padding: 7px;
+  width: 385px;
+  border-radius: 5px;
+  border-style: solid;
+  margin-bottom: 0;
+}
+
+.email {
+  padding: 7px;
+  width: 385px;
+  border-radius: 5px;
+  border-style: solid;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.message {
+  height: 150px;
+  margin-top: 18px;
+  width: 395px;
+  font: arial;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+.send-button {
+  height: 30px;
+  width: 70px;
+  border-style: solid;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  background-color: rgb(212, 169, 116);
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background-color: rgb(190, 163, 130);
+}
