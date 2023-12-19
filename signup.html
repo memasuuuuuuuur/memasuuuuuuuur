@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  <script src="location.js"></script>
+  <link rel="stylesheet" href="first.css">
+  <link rel="stylesheet" href="homepage.css">
+  <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js" defer></script>
+  <script src="/js/validation.js" defer></script>
+  <title>Register</title>
+</head>
+<body>
+
+  <div class="headingnginamo">
+    <img class="logo" src="https://tse1.mm.bing.net/th?id=OIP.Qre1eBihuhI9hw-ZXSJC3AHaHa&pid=Api&P=0&h=220">
+    <p class="left-name"> C O F F E E</p>
+    <li class="namingnginamo" onclick="homeInLogin()">
+      HOME
+    </li>
+    <li class="namingnginamo1" onclick="aboutMeHome()">
+      ABOUT ME
+    </li>
+    <li class="namingnginamo2" onclick="infoHome()">
+      INFO
+    </li>
+    <li class="namingnginamo3" onclick="contactHome()">
+      CONTACT
+    </li>
+  </div>
+
+  <img class="photo-image" src="https://tse1.mm.bing.net/th?id=OIP.Qre1eBihuhI9hw-ZXSJC3AHaHa&pid=Api&P=0&h=220">
+
+  <h1>
+    Register Form
+  </h1>
+
+  <form action="process-signup.php" method="post" id="signup" novalidate>
+    <div class="cont1">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name">
+    </div>
+    <div class="cont1">
+      <label for="name">Email</label>
+      <input type="email" id="email" name="email">
+    </div>
+    <div class="cont1">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password">
+    </div>
+    <div class="cont1">
+      <label for="password_confirmation">Confirm Password</label>
+      <input type="password" id="password_confirmation" name="password_confirmation">
+    </div>
+
+    <button>Register</button>
+  </form>
+
+</body>
+
+</html>
